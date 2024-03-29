@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Jake!
+
+
+🤖 Beep Bop 🤖
+
+🛑 Under Construction🛑
+
 <!--
 **Jhaendar/Jhaendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
